@@ -1,24 +1,3 @@
-ProfileMe.dev
-
-New feature:Changelog added
-
-Introduction
-Skills
-Socials
-Badges
-Support
-
-    Go home
-
-© 2022 Dan Cranney
-Follow me
-|
-Buy Me a Coffee
-Support
-
-Make it easy for people using your products to support you or give donations.
-buymeacoffeeBuy Me a Coffee:
-
 Hi 👋 My name is Ryan Dennler
 =============================
 
