@@ -7,7 +7,7 @@ professional plastic presser
 I like to tool things, build new things, started as an underground AOL developer
 
 *   🌍  I'm based in Costa Rica
-*   🖥️  See my portfolio at [thinkRyan](http://www.thinkryan.net)
+*   🖥️  See my portfolio at [thinkRyan](http://thinkryan.net)
 *   ✉️  You can contact me at [dev@thinkryan.net](mailto:dev@thinkryan.net)
 *   🚀  I'm currently working on [lostark.build](http://lostark.build)
 *   🧠  I'm learning Nextjs, React and Prisma
